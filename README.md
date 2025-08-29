@@ -5,6 +5,11 @@ This project analyzes sales, customer, and inventory data from a **Stoori** to u
 The goal is to help the business understand its **top products and customer behavior**, ultimately improving profitability and growth.
 
 ---
+![Stories Sales Summary](https://github.com/user-attachments/assets/c61c5d74-2539-451f-822f-ded832880b55)
+![Stoorie Products](https://github.com/user-attachments/assets/960e9ced-3f5b-4313-a354-51107b95c86a)
+![Stoori Sales Location](https://github.com/user-attachments/assets/d0b328c7-dc1f-4a43-8dc4-ad2b5c4f8015)
+
+---
 
 ##  Executive Summary
 This project examines the **Mexico Toy Sales** dataset—a fictional but realistic simulation of daily sales, inventory, product, and store-level data for a Mexican toy store chain, Maven Toys, spanning 2022–2023. Our goal is to surface strategic insights into:
