@@ -12,7 +12,7 @@ The goal is to help the business understand its **top products and customer beha
 ---
 
 ##  Executive Summary
-This project examines the **Mexico Toy Sales** dataset—a fictional but realistic simulation of daily sales, inventory, product, and store-level data for a Mexican toy store chain, Maven Toys, spanning 2022–2023. Our goal is to surface strategic insights into:
+This project examines the **S(Stoorie)Mexico Toy Sales** dataset—a fictional but realistic simulation of daily sales, inventory, product, and store-level data for a Mexican toy store chain, Maven Toys, spanning 2022–2023. Our goal is to surface strategic insights into:
 
 - **Revenue drivers**: Which product categories and stores generate the most profit.
 
