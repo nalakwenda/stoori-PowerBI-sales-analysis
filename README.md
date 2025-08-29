@@ -49,20 +49,44 @@ This project examines the **Mexico Toy Sales** dataset—a fictional but realist
 - $ 14,444,572.35
 
 ### *** 2.  What was the total profit? *** 
--$ 40,414,029
+- $ 40,414,029
 
 ### *** 3.  What was the total number units sold? ***
--1090565
+- 1090565
 
 ### *** 4.  Which 10 cities have the highest sales? ***
 ***Findings***
 
+| Store_City         | Total Profit ($USD) |
+|-------------------|-------------------|
+| Cuidad de Mexico   | 465,558           |
+| Guadalajara        | 368,930           |
+| Monterrey          | 346,729           |
+| Hermosillo         | 263,608           |
+| Puebla             | 229,694           |
+| Guanajuato         | 235,047           |
+| Mexicali           | 175,048           |
+| Xalapa             | 163,720           |
+| Saltillo           | 163,248           |
+| Toluca             | 162,702           |
+
 ### *** 5.  Which 10 cities have the lowest sales sales? ***
-***Findings***
+***Findings*** 
+| Store_City           | Total Profit ($USD) |
+|---------------------|-------------------|
+| Chilpancingo         | 66,558            |
+| Tuxtla Gutierrez     | 65,787            |
+| Merida               | 64,399            |
+| Culiacan             | 63,959            |
+| Pachuca              | 63,989            |
+| Durango              | 62,673            |
+| Zacatecas            | 59,160            |
+| Oaxaca               | 59,618            |
+| La Paz               | 57,407            |
+| Cuernavaca           | 56,811            |
 
 ### *** 6. How much revenue did each product category generate? ***
 ***Findings***
-## 🏆 Top Product Categories by Revenue
 
 | Product_Category     | Total Revenue ($USD) |
 |---------------------|--------------------|
