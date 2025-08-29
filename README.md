@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This project analyzes sales, customer, and inventory data from a **Stoori** to uncover insights that drive better decision-making.  
-The goal is to help the business understand its **top products, seasonal demand, customer behavior, and operational efficiency**, ultimately improving profitability and growth.
+The goal is to help the business understand its **top products and customer behavior**, ultimately improving profitability and growth.
 
 ---
 
